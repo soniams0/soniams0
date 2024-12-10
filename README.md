@@ -5,7 +5,8 @@ leading frontend developer. I continue learning and developing projects that enr
 
 Some of the technologies I know are:
 
-- JavaScript
+- JavaScript ![image](https://github.com/user-attachments/assets/a79f385b-17f6-486f-8b9c-31a05fb8125a)
+
 - Node.js
 - Express.js
 - TypeScript
