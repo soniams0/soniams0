@@ -20,4 +20,5 @@ I invite you to follow me and contact me, I can become a great ally in your work
 ## Contact Information:
 📞 +57 3134697617
 ✉  soni.munoz19@gmail.com
+🔎 linkedin.com/in/soniamuñoz
 
